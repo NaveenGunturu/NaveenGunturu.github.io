@@ -157,7 +157,7 @@ height: 100%;
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    border: 2px solid #0bb5f4;
+    border: 2px solid skyblue;
 }
 .resume .resume_right .resume_work ul li:after,
 .resume .resume_right .resume_education ul li:after{
@@ -166,8 +166,8 @@ height: 100%;
     top: 14px;
     left: -21px;
     width: 3px;
-    height: 160px;
-    background: #0bb5f4;
+    height: 92px;
+    background: skyblue;
 }
 .resume .resume_right .resume_hobby ul{
     display: flex;
