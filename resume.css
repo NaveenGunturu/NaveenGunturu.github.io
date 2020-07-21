@@ -159,7 +159,17 @@ height: 100%;
     border-radius: 50%;
     border: 2px solid skyblue;
 }
-.resume .resume_right .resume_work ul li:after,
+
+
+.resume .resume_right .resume_work ul li:after{
+    content: "";
+    position: absolute;
+    top: 14px;
+    left: -21px;
+    width: 3px;
+    height: 160px;
+    background: skyblue;
+}
 .resume .resume_right .resume_education ul li:after{
     content: "";
     position: absolute;
